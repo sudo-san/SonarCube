@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRent.Tests", "testsCarRent.Tests\CarRent.Tests.csproj", "{F7C5D518-A4F2-459C-A03F-F5BA326CB09C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRent", "srcCarRent\CarRent.csproj", "{009094B5-EDF5-4CAE-A95A-FFD83FC3E2FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7C5D518-A4F2-459C-A03F-F5BA326CB09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C5D518-A4F2-459C-A03F-F5BA326CB09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C5D518-A4F2-459C-A03F-F5BA326CB09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C5D518-A4F2-459C-A03F-F5BA326CB09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009094B5-EDF5-4CAE-A95A-FFD83FC3E2FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009094B5-EDF5-4CAE-A95A-FFD83FC3E2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009094B5-EDF5-4CAE-A95A-FFD83FC3E2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009094B5-EDF5-4CAE-A95A-FFD83FC3E2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
